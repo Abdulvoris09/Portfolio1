@@ -406,6 +406,10 @@ header .navbar ul li a:hover {
 }
 
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 
 /* media queries */
